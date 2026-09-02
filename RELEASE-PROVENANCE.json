@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "product": "Integrity",
+  "pluginName": "integrity",
+  "version": "0.4.0",
+  "tag": "v0.4.0",
+  "publicRepository": "Baku305/Integrity-plugin",
+  "canonicalSourceSha": "f2e17a51c9c10b04e11d12a47624cdca0f47e342",
+  "qualifiedRuntimeBaselineSha": "950cf2e04fbe0e62e1d2686f64eff5bdef1ffd8f"
+}
