@@ -1,0 +1,12 @@
+Integrity
+Copyright (c) 2026 Francesco Cristini. All rights reserved.
+
+This repository is the official public distribution source for Integrity.
+
+Integrity is developed from a separate private canonical source. Each release records the canonical source commit and the public package version in RELEASE-PROVENANCE.json. The public package is self-contained and has no runtime dependency on the private source.
+
+Integrity is distributed under the Integrity Source-Available License 1.0, identified in plugin metadata as LicenseRef-Integrity-1.0. Public visibility does not grant rights beyond LICENSE.
+
+The Integrity name and branding are reserved. Forks, mirrors, copies, modifications, and derivatives are not official Integrity releases and must not imply endorsement or official status.
+
+The custom license text should receive professional legal review before it is relied upon as definitive legal advice or protection.

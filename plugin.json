@@ -1,0 +1,20 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "integrity",
+  "version": "0.4.0",
+  "description": "Keeps coding agents from sacrificing engineering quality to finish the task.",
+  "author": {
+    "name": "Francesco Cristini",
+    "url": "https://github.com/Baku305"
+  },
+  "homepage": "https://github.com/Baku305/Integrity-plugin",
+  "repository": "https://github.com/Baku305/Integrity-plugin",
+  "license": "LicenseRef-Integrity-1.0",
+  "keywords": [
+    "engineering",
+    "integrity",
+    "software-architecture",
+    "debugging",
+    "code-quality"
+  ]
+}
